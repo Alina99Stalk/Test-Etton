@@ -1,0 +1,21 @@
+.catalog {
+    display: flex;
+    flex-direction: row;
+}
+.filters {
+    width: 25%;
+    padding-top: 30px;
+    padding-right: 20px;
+}
+.cats {
+   padding: 2% 0%;
+   display: flex;
+   width: 85%;
+   flex-flow: row wrap;
+}
+.catalog__title {
+    color: $color-font-base;
+    font-size: 36px;
+    font-weight: 500;
+    padding-bottom: 5%;
+}
