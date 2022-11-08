@@ -13,7 +13,7 @@ export default {
   data() {
     return {
       name: 'Хафизова Алина Руслановна',
-      github: 'https://github.com/example'
+      github: 'https://github.com/Alina99Stalk/Test-Etton'
     }
   }
 }
